@@ -1,6 +1,8 @@
 #include <stdio.h> // Inclui a biblioteca stdio.h para usar funções de entrada/saída
 
 int main() { // Função principal do programa
+    printf("SUPER TRUNFO \n");
+
     int codigo_da_cidade; // Declara a variável 'codigo_da_cidade' do tipo inteiro
     int populacao; // Declara a variável 'populacao' do tipo inteiro
     int PIB; // Declara a variável 'PIB' do tipo inteiro
