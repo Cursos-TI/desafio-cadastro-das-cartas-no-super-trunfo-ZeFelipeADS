@@ -35,5 +35,13 @@ int main() { // Função principal do programa
     printf("Área: %f\n", area); // Exibe a área
     printf("Nome da cidade: %s\n", nome_da_cidade); // Exibe o nome da cidade
 
-    return 0; // Indica que o programa terminou com sucesso
-}
+    Carta cartas[2]; //2 cartas
+    char nome_da_cidade[2][30] = {"Sao Paulo", "Belo Horizonte"}
+    int codigo_da_cidade[2] = {01, 02}
+    int populacao[2] = {11450000, 2315000}
+    int PIB[2] = {748000000000, 106000000000}
+    int numero_de_pontos_turisticos[2] = {150, 135}
+    float area[2] = {1521.19, 331.34}
+
+    if (populacao1)
+
